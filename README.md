@@ -10,4 +10,6 @@
 ## Project Transfer Learning
   Image classifiers that extend ResNet and VGG networks through transfer learning
   * Monkey Species Classifier: A classifier that extends ResNet-18 to classify ten monkey species
+
+## Project Sentiment Analysis 
   
