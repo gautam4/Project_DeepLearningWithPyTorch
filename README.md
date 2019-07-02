@@ -7,7 +7,7 @@
   An image classification project involving defining, training, and tuning CNNs to perform a fine-grain classification task. 
 
 ## Project Transfer Learning
-  An image classification project were classifiers extending ResNet and VGG networks through transfer learning were analyzed for comparative performance
+  An image classification project were classifiers extending ResNet and VGG networks through transfer learning were analyzed for comparative performance.
 
 ## Project Sentiment Analysis 
   
