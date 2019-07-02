@@ -27,3 +27,13 @@ The data for this project can be obtained from Kaggle at the below link. The pro
 2. Upload the training and validation data using Github or an alternative method. Code cells 3-6 are designed to work with Google Colab and may be ignored when running in a different environment. Once the datasets have been uploaded or can be accessed by this notebook, the code cells in "Building the Dataset" should successfully create the training, test, and validation dataloaders.
 3. From this point, the remaining cells can be run as normal. 
 
+## Instructions 
+
+* The VGG models are listed in the Project_Transfer Learning_VGG.ipynb
+* The ResNet models are listed in the Project_Transfer Learning_ResNet.ipynb
+* Run the cells in sequence depending on your environment(See Getting Started)
+* Each Model is structured as follows: model and classifier definition, classifier training, and model testing
+* After all the models are trained, the Training and Validation losses are plotted against each other
+
+## Project Results/Discussion
+The results from this project, including a detailed discussion of the theory behind Transfer learning, the approach taken, and final conclusions regarding the different model performances, are included in the Report_TransferLearning.pdf.
