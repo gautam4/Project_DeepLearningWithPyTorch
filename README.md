@@ -1,4 +1,4 @@
-# Project_Deep-Learning-with-PyTorch
+# Project_Deep Learning with PyTorch
 
 ## Introduction
   This repository includes a series of projects that were created using PyTorch and TensorFlow. Further details on the projects, the data used in the projects, a discussion of the models built and approach taken, and the results and conclusion of each project is available in  the reports included in each project folder.
