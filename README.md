@@ -9,5 +9,4 @@
 ## Project Transfer Learning
   An image classification project were classifiers extending ResNet and VGG networks through transfer learning were analyzed for comparative performance.
 
-## Project Sentiment Analysis 
-  
+
