@@ -4,4 +4,4 @@
 * This project implements a style transfer approach using a pretrained VGG19 network to transfer a historical artist's style to 
 a recent movie's poster or a still from the movie.
 
-## Projected Completion: 08/16/2019
+## Projected Completion: 08/26/2019
